@@ -3,4 +3,4 @@
 # and execute the "whoami" command
 #
 
-sudo -u #1 whoami
+sudo -u $1 whoami
